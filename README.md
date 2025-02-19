@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to use parameter labels when calling functions. The `bug.swift` file shows the incorrect usage, leading to a compiler error.  The corrected version is provided in `bugSolution.swift`, highlighting the importance of using parameter labels or omitting them appropriately during declaration.
